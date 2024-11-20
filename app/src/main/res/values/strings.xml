@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">News Short Admin</string>
+
+    <string-array name="news_tag">
+        <item>News</item>
+        <item>Job News</item>
+        <item>Sports</item>
+    </string-array>
+    <string-array name="degree">
+        <item>SSE</item>
+        <item>HSE</item>
+        <item>অনার্স/স্নাতক</item>
+        <item>মাস্টার্স/স্নাতকোত্তর</item>
+        <item>ডিপ্লোমা</item>
+        <item>পিএইচডি</item>
+        <item>এমফিল</item>
+        <item>BSE</item>
+        <item>MSE</item>
+        <item>BBA</item>
+        <item>MBA</item>
+        <item>No Degree require</item>
+
+    </string-array>
+
+
+</resources>
